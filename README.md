@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vansh
-- 🌱 I’m currently learning "FRONTEND WEB-DEVELOPMENT".
+- 🌱 I’m currently learning "MERN STACK".
 - 📫 How to reach me - vanshpatil321@gmail.com
 
 <!---
